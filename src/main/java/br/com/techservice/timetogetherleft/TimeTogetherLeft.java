@@ -3,6 +3,7 @@ package br.com.techservice.timetogetherleft;
 import javax.swing.JOptionPane;
 
 /**
+ * 
  * Copyright (C) 2023 Felipe Esperante Nunes
  *
  * This program is free software: you can redistribute it and/or modify it under
